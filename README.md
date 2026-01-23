@@ -7,3 +7,7 @@ It contains the coding challenges of date 14-01-2026
 
 --- 2D Folder
 It Contains the coding challenges of date 15-01-2026
+
+
+-- Strings Folder
+It contains the coding challenges of date 22-01-2026
